@@ -1,0 +1,21 @@
+.colorUno{
+    background-color: #40e2c5;
+}
+.colorDos{
+   background-color: #1cd6d5;
+}
+.colorTres{
+  background-color: #ffac85;
+}
+.fuente{
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.fondo{
+  background-image: url("../img/fondo.jpg");
+  background-size: cover;
+  background-position: top center;
+  background-attachment: fixed;
+  padding: 25%;
+}
